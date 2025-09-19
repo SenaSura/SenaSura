@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I’m a passionate **Front-End Developer** focused on crafting beautiful, responsive, and user-friendly web applications.  
-My goal is to turn ideas into interactive experiences using clean and efficient code. 🚀  
+Computer Science Student at Jimma University
 
 ---
 
@@ -34,11 +34,7 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SenaSura&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SenaSura&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -97,7 +93,11 @@ A **movie database app** powered by an external API, where users can search and 
 *(Check pinned repositories for more 👉)*  
 
 ---
+## 📊 GitHub Analytics  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SenaSura&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ## 🤝 Connect With Me  
 
 <p align="center">
