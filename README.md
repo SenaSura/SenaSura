@@ -18,20 +18,20 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SenaSura&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -52,10 +52,27 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 
 ---
 
-## 🐍 Contribution Graph  
+## 📈 Activity & Contributions  
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SenaSura/SenaSura/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+### 📅 Commit Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenaSura&theme=react-dark" alt="activity graph"/>
+</p>
+
+### 📌 Extra Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenaSura&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenaSura&theme=radical" alt="Most Commit Language"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/SenaSura/SenaSura/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SenaSura&theme=radical" alt="Commit Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenaSura&theme=radical" alt="Stats"/>
 </p>
 
 ---
