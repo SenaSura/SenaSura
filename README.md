@@ -6,14 +6,7 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 
 ---
 
-## 🔥 About Me
-- 🎨 Specialized in **Front-End Web Development** (HTML, CSS, JavaScript, React)  
-- 🌱 Currently exploring **Next.js** and modern UI frameworks  
-- 📱 Enthusiastic about **responsive design** and **performance optimization**  
-- 🛠️ Strong believer in **user-centered design principles**  
-- ⚡ Fun fact: I love turning complex problems into elegant UI solutions  
 
----
 
 ## 🛠️ Tech Stack  
 
