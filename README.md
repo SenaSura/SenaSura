@@ -17,16 +17,26 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 
 ## 🛠️ Tech Stack  
 
+### 🌐 Languages  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</p>
+
+### ⚛️ Frameworks & Libraries  
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="50" height="50" alt="Tailwind CSS"/>
+</p>
+
+### 🛠️ Tools & Platforms  
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -54,17 +64,17 @@ My goal is to turn ideas into interactive experiences using clean and efficient 
 
 ## 📈 Activity & Contributions  
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake  
 <p align="center">
   <img src="https://raw.githubusercontent.com/SenaSura/SenaSura/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-### 📅 Commit Graph
+### 📅 Commit Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenaSura&theme=react-dark" alt="activity graph"/>
 </p>
 
-### 📌 Extra Metrics
+### 📌 Extra Metrics  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SenaSura&theme=radical" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SenaSura&theme=radical" alt="Most Commit Language"/>
@@ -98,10 +108,10 @@ A **movie database app** powered by an external API, where users can search and 
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/SenaSura" target="_blank">
+  <a href="https://www.linkedin.com/in/sena-sura" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
-  <a href="mailto:senasura@example.com">
+  <a href="mailto:sifnasifnan3@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff" />
   </a>
   <a href="https://twitter.com/SenaSura" target="_blank">
